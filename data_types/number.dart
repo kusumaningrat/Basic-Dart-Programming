@@ -1,9 +1,11 @@
 void main() {
   /*
+  ===================
     1. Data Types:
        a. int
        b. double
        c. num
+  ===================
   */
 
   int nilaiMatematika = 80;
