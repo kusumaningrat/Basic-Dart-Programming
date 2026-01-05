@@ -20,6 +20,5 @@ void main() {
   print("New Score $score");
 
   // Remove data
-  var removed_data = score.remove("Kimia");
   print("After removing $score");
 }
