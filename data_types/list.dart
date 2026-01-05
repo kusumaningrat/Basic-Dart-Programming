@@ -5,7 +5,7 @@ void main() {
   ===================
   How to declare list
   List<> varName = [];
-  var varName = <dataType>[];
+  var varName = List<dataType>[];
   */
 
   List<String> month = ['January', 'February', 'March', 'April', 'May', 'June'];

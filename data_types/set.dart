@@ -3,9 +3,9 @@ void main() {
   ===================
   5. Set
   ===================
-  How to declare list
+  How to declare set
   Set<> varName = [];
-  var varName = <dataType>[];
+  var varName = Set<dataType>[];
   */
 
   Set<String> days = {"Monday", "Tuesday", "Wednesday"};
